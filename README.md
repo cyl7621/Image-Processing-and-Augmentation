@@ -1,7 +1,10 @@
 # Image-Processing-and-Augmentation
-Process images and created different lighting effect by changing the brightness and contrast.
+This project aims to practice some image processing and augmentation methods by using Python.
+ - Process the recorded video and derive it into different images
+ - Applied rotation, horizontal flip, brightness and darkness augmentation to the images
 
-All images are in JPG format
-- Image105 (original image)
-- Image105_transformed1 (darker)
-- Image105_transformed2 (lighter)
+
+Original Images:
+
+Images after data augmentation:
+
